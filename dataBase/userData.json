@@ -1,0 +1,197 @@
+[
+ {
+  "id": 1,
+  "nya": "Lucas Silva",
+  "email": "lucas@gmail.com",
+  "edad": 29
+ },
+ {
+  "id": 3,
+  "nya": "hector Silva",
+  "email": "javier@gmail.com",
+  "edad": 18
+ },
+ {
+  "id": 4,
+  "nya": "nestor Silva",
+  "email": "nestor@gmail.com",
+  "edad": 60
+ },
+ {
+  "id": 5,
+  "nya": "Lucas Silva",
+  "email": "l.silva8692@gmail.com",
+  "edad": "29"
+ },
+ {
+  "id": 6,
+  "nya": "Candela Palomba",
+  "email": "lapipi@gmail.com",
+  "edad": "34"
+ },
+ {
+  "id": 7,
+  "nya": "Candela Palomba",
+  "email": "",
+  "edad": "34"
+ },
+ {
+  "id": 8,
+  "nya": "",
+  "email": "",
+  "edad": "34"
+ },
+ {
+  "id": 9,
+  "nya": "",
+  "email": "",
+  "edad": ""
+ },
+ {
+  "id": 10,
+  "nya": "",
+  "email": "",
+  "edad": ""
+ },
+ {
+  "id": 11,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 12,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 13,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 14,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 15,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 16,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 17,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 18,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 19,
+  "nya": "Lucas Silva",
+  "email": "l.silva8692@gmail.com",
+  "edad": "29",
+  "password": "holajuancarlos",
+  "image": "keith.jpg"
+ },
+ {
+  "id": 20,
+  "nya": "",
+  "email": "",
+  "edad": "",
+  "password": ""
+ },
+ {
+  "id": 21,
+  "nya": "Lucas Silva",
+  "email": "l.silva8692@gmail.com",
+  "edad": "30",
+  "password": "hoalluacas"
+ },
+ {
+  "id": 22,
+  "nya": "lucas",
+  "email": "l.silva@gmail.com",
+  "edad": "30",
+  "password": "holaaaaaaa"
+ },
+ {
+  "id": 23,
+  "nya": "Lucas Silva",
+  "email": "l.silva8692@gmail.com",
+  "edad": "29",
+  "password": "holapipi",
+  "image": "img - 1642537125123-658858358-image.jpg"
+ },
+ {
+  "id": 24,
+  "nya": "Lucas Silva",
+  "email": "l.silva8692@gmail.com",
+  "edad": "29",
+  "password": "$2a$10$5jGSSKJeyMoUkkk9.OXtBu/RlJE3ujUl/R6FHFZHm.oujV3zwkh96",
+  "image": "img - 1642598556228-94095789-image.jpg"
+ },
+ {
+  "id": 25,
+  "nya": "Lucas Silva",
+  "email": "hola@gmail.com",
+  "edad": "30",
+  "password": "$2a$10$b9KgqjlEBJPAYsnsWFflwe2.O8x8AZA3i./2h5V2zJa6jMkLfwkaq",
+  "image": "img - 1642599290300-394274368-image.jpg"
+ },
+ {
+  "id": 26,
+  "nya": "Lucas Silva",
+  "email": "l.ho@gmail.com",
+  "edad": "30",
+  "password": "$2a$10$CQYP/6zWp7zegxc14hFihu6b5Oej8a33atpnPHIrH/VxaWm92huS2",
+  "image": "img - 1642600165352-225505245-image.jpg"
+ },
+ {
+  "id": 27,
+  "nya": "Lucas Silva",
+  "email": "holalucas@gmail.com",
+  "edad": "30",
+  "password": "$2a$10$LB7p8we4NknbhPFtMCsT1u0Xxs16DXuksr1EAFNw7CVEVPsbQ8Dvy",
+  "image": "img - 1642602279362-733975245-image.jpg"
+ },
+ {
+  "id": 28,
+  "nya": "Lucas Silva",
+  "email": "pipi@gamail.com",
+  "edad": "45",
+  "password": "$2a$10$8tGkRHfWgdU8CoDZSQQ6yu1tMioVbxuu57l.4N1JBXqZzKQfYscnu",
+  "image": "img - 1642602348571-875588304-image.jpg"
+ },
+ {
+  "id": 29,
+  "nya": "Lucas Silva",
+  "email": "juju@gamail.com",
+  "edad": "45",
+  "password": "$2a$10$GmAiqVvtd.aUVuIsVCork.fOABu.4NPAPxETpgQTn1MeaRgVhQJLW",
+  "image": "img - 1642602393651-854169284-image.jpg"
+ }
+]
